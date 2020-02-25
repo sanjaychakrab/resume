@@ -1,0 +1,211 @@
+SANJAY CHAKRABORTY
+
+1 Regency CT
+Exton PA 19341
+
+Phone: 610-842-0170
+Email: sanjaycphilly@gmail.com
+
+
+
+Objective
+
+Looking for Sr System Linux Engineer / Administrator. Local/remote only. 
+
+SUMMARY
+
+More than 15 years of experience in Unix/Linux environments including Redhat /CentOs/ SUSE Linux, and Solaris/HP-AIX/Windows.  More than 10 years of experience in VMWARE server technologies including ESX 3.5/4.00/500.  Oracle RAC experience. More than 20 years of overall IT experience.
+
+Linkdin: https://www.linkedin.com/in/sanjay-chakraborty-33a080136/
+
+Certification: 
+RHCSA  
+ID : 111-173-043 date Nov 2011
+
+TECHNICAL SKILLS
+OS: 
+RHEL/CentOS 3/4/5/6/7
+ESX (VMware) 4/5
+Solaris 10 /AIX 5 L
+Windows 10/12/16
+Cloud: 
+AWS
+OpenStack ( create your own cloud)
+OpenShift ( can manage own cloud: OpenStack) 
+Virtualization:
+Docker container, VMware.
+Monitor:
+Nagios
+Splunk
+ 
+
+Hardware:
+Mainly HP DL 360 /G8/G9/Dell PowerEdge/Itenium/xeon/optron machines including dell, IBM p/x series. CISCO UCS, rack/blades, 
+Sparc T Series. 
+
+Linux: 
+Bash scripting.  NAS/CIFS/NFS share setup. Veritas cluster (VCS/VCFS) setup. Oracle RAC install.  All types of troubleshooting. RHEL/CentOS conversions. Hadoop supports. Create Puppet Recipe for automation (script for network bonding). Set up system security. Ansible playbook for remote script, patching. Design and Architecture for data center move. 
+
+. 
+Remote Solutions Support:  Remote ILO/DRAC connection, VPN support, VNC server  support.
+Virtual: VMWare Install ESX, Deploy VMs, Create template, OVF, vMotion / DRS Rule setup, ILOM, Linux VM, Oracle VM. Docker 12/13/18 (beta)., Created docker images as per app needs.
+System Scripting: Bash (Bourne) Shell Script, Python scripting.
+Programming Languages: Bash, Python,SQL,
+RDBMS: MySQL, ORACLE.
+ 
+
+
+
+PROFESSIONAL EXPERIENCE:
+ 
+PJM Interconnection (consultant from NTT Data)      March 2019 - Present
+SCADA Technical Analyst.
+Autobond PA
+Working on OSI (SCADA)project. My work including deploy new release, configure systems as needed.
+Installed configure mongo database for messaging (ESB/EITKFS)
+Troubleshooting issue, System patching, new code release.
+Work on variances (bug) with vendor.
+Use Ansible ad-hoc for some tests ( bug fixings)
+Created Ansible paybook.  
+Create bash script to generate reports.
+Coordinate 3 weeks Full Fat Testing. 
+Resolve somke test issue.
+Configure mongodb database for onlineer Note 'dgds' display for dispature on all domains, including cluster configurations.
+. 
+ 
+
+
+
+PECO/EXELON
+Senior Technical Analyst as Contractor 
+Philadelphia PA                         June 2017 to March 2019
+
+Working for (EMS) Electric system management generation and distribution. Electric Utility NERC background check cleared for 7 years.
+Work on project for upgrading GE XA/21 to POR 2015.  Beside working in the team for XA/21 application my job also includes managing systems (servers, consoles, mimic displays), tightening systems as per requirements, implementing baseline.  Beside projects support day to day Linux/windows issues troubleshooting and fixes.
+ Other work including working on Nutanix and VMWare systems configure and setup.
+Veritas NetBackup appliance manage, BMR setup, restore. Upgrade NetBackup 7.3 to 8.1. 
+Patching. Worked with NetApp storage. Scripting as needed. Worked on ID (Leidos) monitoring. Check variances. Investigate and promote baseline for compliance. 
+Part of on call support for 24x7 weekly rotation. 
+
+Vanguard
+Valley Forge PA
+Lead Technical Support Contractor                  Feb 2016 to June 2017 
+
+Created AWS linux instance and VMs, install eBusiness R12 suit managing different financial applications. 
+Installed PeopleSoft Enterprise Financials supply chain management 9.2.x  and People Tools, Tuxedo 12c, WebLogic and process scheduler in Windows 64 bits for HRMS for PeopleSoft database. Used Microsoft NetExpress for COBOL for PeopleSoft to run properly.     
+Install Splunk and forwarder (agents) in many hosts for indexing. Generated reports.
+Troubleshooting that include, disk issue, nfs, web, java, user access, backup-restore (NetBackup), vendor engagements, network issue, system patching, cluster issue.
+ Load balancer F5 / Lbmon manipulation, JVM hung thread, MQ setup, quick scripting using bash shell, VMware maintenance, Participate long maintenance/deployment/Elevation.
+Work on identifying RCA (root cause analysis) for Linux servers and create reports. 
+ Participate DSR (daily status reports).
+Left due to contract ending.
+
+
+
+
+NOOA
+College Park MD                                                                                            Sept 2015 to Jan 2016
+Senior System Engineer
+
+Worked in satellite labs for scientists. Ensure performance optimization Linux systems (Virtual and Physical). Managed day to day work/troubleshooting. That including system patching, NFS share issue, Samba share, iSCSI setup for (Dell) PowerVolt NAS. Installing new servers. 
+Other responsibility working with puppet recipe upload in github using r10k. Created docker image for testing. 
+Left due to long commute. Remote stopped due to security reason.
+
+
+COMCAST
+West Chester PA 19380                   Feb 2011 to Sept 2015
+Senior System Engineer 
+
+Initially assigned to work within a crisis environment supporting thousands of servers. Worked in large group to resolve the issues. Did extensive troubleshooting for production issues. Took part in on-call rotation. 
+Support 10000 + servers.
+With a few selected members, I was moved to the Solution Delivery as team lead. Helped to sort out the issue and made the matrix valuable. Majority of the work including 
+Created P2V (Linux Physical to Virtual) servers. 
+Worked closely with IDEA team to build the servers in test phase and created checklist aimed at improving and documenting the procedure.  Corrected the scripts, fixed the errors and made suggestions for further improvements. 
+I handled mostly Linux and some Solaris build and decom project including superdoms. Created bash scripts to obtain the critical info from servers. Building server as per customer requirements that include web/Oracle/VERITAS cluster servers.  NFS/CIFS share. RAID configuration. Repo setup.
+Advance support. Automation, create puppet recipe for tools. Hadoop HDFS setup/support.
+RHEL to CentOS and vise-versa migrations.
+Troubleshooting: disk, raid, network, storage, hardware, application, samba, nfs, print, login, CPU/RAM/slowness/hdfs/map/hadoop issues.
+Left due to outsourcing/re-batching.
+
+
+VWR International
+West Chester PA 19380                   
+Team Lead System Engineer and Architecture                              Feb 2008 – Feb 2011
+Join as team lead to for data center migration from Airport location to Velley Forge data     center. Help design, POC and implement new applications. Configure GFS.
+Responsible for supporting more than 200 Linux servers. Also responsible for patching servers and tuning them as needed. Added hardware as needed.
+Kernel configuration as needed for drivers. 
+Install/Update/Renew SSL certificates for Apache webserver from Verisign/Globalsign.
+Install Weblogic and Jboss servers. 
+Install/manage Tomcat/Apache and JBoss applications. 
+Install VMWARE ESX 3.5 in HP blade servers. Make/add clusters. Install many virtual machines as POC/DEV and Prod boxes.
+Test VMOTION as cold and hot both.
+Install RHEL 5.1/2/3/4 in all new boxes as well as some RHEL 4.6 AS/ES. Convert RHEL to Oracle Enterprise Linux.
+Install Apache from source, Weblogic as needed. Code loadings. Work with app team to for Ant/Java.
+Secure and lock down servers. 
+Install Tivoli agents in all the servers. Do backup with Tivoli. 
+V to P (Virtual to Physical) servers migration with Acronus software.
+Install critical GFS cluster for high availability. Created patch server/satellite server. 
+Setup LDAP server for authentication. 
+Everyday production support including software raid, tunings, Application restarts, patching, package installing, monitoring, add/remove RAM/CPU, kernel parameter turning. Add swap, control swappiness, add SAN in live production server without interruptions in application. 
+DR drill participation in remote location. Restore OS used Kickstart and applications from Tivoli backup within restricted time frame.
+Left due to outsourcing.  
+
+City of Philadelphia                                March 06 - Feb 08
+Philadelphia PA 
+Linux System Administrator
+Working on various Linux servers. My job includes installation of Servers, support and troubleshooting to OS level. (RHEL 3/4) 
+Working as team lead, mentoring and guiding 5 people. Consulted with vendors. 
+Oracle RAC 10.2 g installation including clusterware and database and added RAC Nodes.
+Kernel tuning for different drivers for fiber card (HBA). 
+Install and configure RDAC drivers for failover OS level.
+Install IBM Directors for monitoring and snapshots of OS.
+Install and work with MStoolKit (Unix emulator for Window server).
+Create RSA connections for remote monitoring for system info.
+Created Samba connections to Windows box from Linux servers.
+Install and update different drivers and configure the system based on them. Troubleshooting NFS/SAMBA.
+Lock down the system. Security patches.
+Install Redhat satellite server and synchronize with central RHN server.
+Install Oracle rpms (ocfs/ocfs2/asm) and install / add node in oracle RAC.
+Maintain SAN (IBM DS 4500) fast 900. Create LUNS etc. 
+Install Nagios server for overall monitoring.
+Made kickstart installation.
+Create new kernel images modules for new driver (RHEL 3).
+Upgrade and reinstall RHEL 3 TO 4. Keeping files/disk intact. 
+Responsible for about 300 servers with different OS including Redhat, SUSE, Aix, Solaris and Windows. 
+Install Piranha load balancer (Redhat) for application servers. 
+Create vmware servers and slice them for various jobs.
+Develop numerous monitoring scripts for capture and sending reports.
+Troubleshooting support Tier 2/3  (final level all kinds).
+Installing Windows 2003 servers for Oracle applications.
+Setup Windows 2003 IIS servers for FTP.
+Installing and configuring entire Oracle RAC database including ASM and ocfs2 with RHEL 4.4.
+Upgrading OS  (RHEL 41. To 4.5) and upgrading ASM .and OCFS2.
+Nagios setup for monitoring alerts.
+
+ 
+
+
+CCCS (Colorado Community College System)            June 2004 – March 2006
+Lawry Blvd. Denver CO
+Linux system engineer (Project Lead)
+
+Join team to install configure project for installing Banner project to consolidate 12 community colleges to one support system.
+Install RHEL 3 in Power systems for oracle 10g database installation. My work includes patching, updating and maintain the systems including Firmware.
+Trouble shooting oracle issues. 
+Install and configure Nagios for monitoring the entire environments.  
+
+
+
+
+EDUCATION:
+
+BS, Technical Management                                       _             
+DeVry University, Fort Washington PA                            _                 GPA 3.80/4.00      
+
+AS, Computer and Information Science  _                 
+Community College of Allegheny County, Pittsburgh, PA          _              GPA: 3.27/4.00
+
+
+
+
+
